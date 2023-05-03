@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">釜山 Tour</string>
+    <string name="filter_festival">節日</string>
+    <string name="filter_food">餐廳</string>
+    <string name="filter_sights">景點</string>
+    <string name="menu_favorite_list">收藏列表</string>
+    <string name="menu_memo_list">備忘錄</string>
+    <string name="menu_copyright">版權</string>
+    <string name="menu_version_info">版本</string>
+    <string name="alert_permission">基於當前位置信息的服務需要許可。</string>
+    <string name="alert_retry">加載數據失敗。</string>
+</resources>

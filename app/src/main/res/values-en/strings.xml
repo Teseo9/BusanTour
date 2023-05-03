@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Busan Tour</string>
+    <string name="filter_festival">festival</string>
+    <string name="filter_food">restaurant</string>
+    <string name="filter_sights">sights</string>
+    <string name="menu_favorite_list">Favorites list</string>
+    <string name="menu_memo_list">Memo list</string>
+    <string name="menu_copyright">Copyright</string>
+    <string name="menu_version_info">version</string>
+    <string name="alert_permission">Permission is required for services based on current location information.</string>
+    <string name="alert_retry">Failed to load data.</string>
+</resources>
